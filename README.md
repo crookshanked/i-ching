@@ -13,5 +13,5 @@ Web Project:
 Written in Clojure
 
 CLI Project:
-Written in Python
->>>>>>> 82e271a74db004a0bf5c42c0649f6914df1a4927
+Written in Python perhaps?
+Other candidates - ruby?
