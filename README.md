@@ -16,4 +16,4 @@ CLI Project:
 Written in Python perhaps?
 Other candidates - ruby?
 
-[p.s. holy shit this merge was messy]
+[p.s. holy shit this merge was messy. one more edit for testing slack integration.]
