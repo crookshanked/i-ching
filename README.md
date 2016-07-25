@@ -15,3 +15,5 @@ Written in Clojure
 CLI Project:
 Written in Python perhaps?
 Other candidates - ruby?
+
+[p.s. holy shit this merge was messy]
