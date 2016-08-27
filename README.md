@@ -12,8 +12,13 @@ Web Project:
 Written in Clojure
 
 CLI Project:
-Written in Python perhaps?
+Written in Python perhaps? [This is looking like the winner.]
 Other candidates - ruby?
 
-[p.s. holy shit this merge was messy. one more edit for testing slack integration.]
-[I'm gonna leave this here for now cause it's funny, also testing out commits and what not.]
+Goals to acheive in the near future
+=======
+Pair Program with Pat
+
+Make `run bagua` work
+
+
