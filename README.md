@@ -18,6 +18,7 @@ Other candidates - ruby?
 Goals to acheive in the near future
 =======
 Pair Program with Pat
+
 Make `run bagua` work
 
 
