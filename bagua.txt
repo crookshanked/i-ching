@@ -30,3 +30,5 @@ ______
 ______ 
 ______ 
 
+
+Using the new line symbol (/n) and strings store each item in an array.
