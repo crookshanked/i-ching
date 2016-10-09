@@ -1,6 +1,8 @@
 # Collaborative Workspace
 ## Ideas:
   * cli for i-ching
+  * Learning some web scraping techniques? I'm going to include the scripts I
+    used to gather the chapters.
 
 ### I-ching goals to execute:
   * The idea is to learn and use python to build a command line program.
