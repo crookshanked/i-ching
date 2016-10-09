@@ -1,24 +1,30 @@
-# i-ching
-cli for i-ching
+# Collaborative Workspace
+## Ideas:
+  * cli for i-ching
+  * Learning some web scraping techniques? I'm going to include the scripts I
+    used to gather the chapters.
 
-Idea to execute:
-Build a command line interface to make i-ching queries.
-There will be a clojure gui program that Brian has in mind.
+### I-ching goals to execute:
+  * The idea is to learn and use python to build a command line program.
+  * Build a command line interface to make i-ching queries.
+  * Creating some of simulating coin flips. Terminal or in Browser with
+    JavaScript. 
+  * There will be a clojure gui program that Brian has in mind.
 
-Then idea is to learn and use python to build a command line program.
-=======
 
-Web Project:
+## Web Project:
 Written in Clojure
 
-CLI Project:
+## CLI Project:
 Written in Python perhaps? [This is looking like the winner.]
-Other candidates - ruby?
+Other candidates - ruby? -> go? rust? Go has good CLI tools
 
 Goals to acheive in the near future
 =======
 Pair Program with Pat
 
-Make `run bagua` work
+Make `run bagua` work -> make it do more
+
+Flesh out the website
 
 
